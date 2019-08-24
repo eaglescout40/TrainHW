@@ -1,0 +1,20 @@
+    
+.jumbotron {
+	background-image: url("https://images.pexels.com/photos/72594/japan-train-railroad-railway-72594.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+	color: white;
+}
+
+body {
+	background-image: url("https://images.pexels.com/photos/72594/japan-train-railroad-railway-72594.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+
+.panel-heading {
+	background-color: blue;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #ddd;
+    color: grey;
+
+}
